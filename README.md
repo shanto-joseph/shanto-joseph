@@ -68,15 +68,53 @@ I focus on delivering beautiful, responsive designs and robust backend systems t
 
 <br/>
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-| Project | What it does |
-|--------|--------------|
-| [🖥️ PC_Shop](https://github.com/shanto-joseph/PC_Shop) | Django e-commerce platform for PC hardware with custom PC builder, Razorpay payments & Vex AI chatbot |
-| [🎮 razer-hub](https://github.com/shanto-joseph/razer-hub) | Razer themed hub application |
-| [🌐 portfolio](https://github.com/shanto-joseph/portfolio) | Personal portfolio website |
-| [📜 certificate-forge](https://github.com/shanto-joseph/certificate-forge) | Certificate generation & management tool |
-| [🤖 not-bot](https://github.com/shanto-joseph/not-bot) | Automation bot project |
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/shanto-joseph/pc-store">pc-store</a></h3>
+      <p>Multi-vendor e-commerce for PC hardware built with <strong>PHP & MySQL</strong>. Customer shopping, vendor dashboards, admin panel & Razorpay payments.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/shanto-joseph/PC_Customization">PC_Customization</a></h3>
+      <p>Django e-commerce for PC hardware with custom PC builder, compatibility checks, Razorpay payments & <strong>Vex AI</strong> chatbot.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/shanto-joseph/PlantNest">PlantNest</a></h3>
+      <p>Django e-commerce platform for plants with <strong>AI plant chat</strong>, community blog & custom admin dashboard.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI_Chat-4285F4?style=flat-square&logo=google&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/shanto-joseph/Home-Easeit">Home-Easeit</a></h3>
+      <p>Full-stack rental management system — property listings, visit scheduling, bookings, refunds & notifications.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📜 <a href="https://github.com/shanto-joseph/certificate-forge">certificate-forge</a></h3>
+      <p>Certificate generation & management tool.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/shanto-joseph/not-bot">not-bot</a></h3>
+      <p>Automation bot project.</p>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br/>
 
